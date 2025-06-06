@@ -28,7 +28,7 @@ Este projeto apresenta uma interface com abas dinâmicas, onde o conteúdo muda 
 
 ## 🚀 Demo online
 
-🔗 [Acesse a aplicação no Netlify]([https://SEU-LINK-NETLIFY-AQUI.netlify.app](https://abas-interativas-devtred.netlify.app/))
+🔗 [Acesse a aplicação no Netlify](https://abas-interativas-devtred.netlify.app/)
 
 ---
 
